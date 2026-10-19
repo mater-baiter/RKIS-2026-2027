@@ -9,5 +9,5 @@ namespace TodoListApp
             Console.WriteLine("Работу выполнил Гарибов и Свирид");
         }
     }
-} 
+}  
 
