@@ -1,4 +1,4 @@
-﻿using System;
+﻿323using System;
 
 namespace TodoListApp
 {
@@ -20,6 +20,8 @@ namespace TodoListApp
             int age = currentYear - birthYear;
             
             Console.WriteLine($"Добавлен новый пользователь {firstName} {secondName}, возраст - {age}");
+
+            
 
         }
     }
